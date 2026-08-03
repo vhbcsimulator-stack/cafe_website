@@ -887,8 +887,8 @@ export default function PromoPage() {
                     <div id="location">
                         <h4 className="about-footer-col-title">Visit</h4>
                         <p className="about-footer-address">
-                            123 Bean Street<br />
-                            Coffeeville, CF 12345
+                            130 Tagaytay - Nasugbu Hwy,<br />
+                            Laurel, Batangas, 4221
                         </p>
                         <p className="about-footer-hours">Mon-Sun: 7am - 5pm</p>
                     </div>
