@@ -1,0 +1,261 @@
+{
+    "brand": {
+        "name": "VHermosa Café",
+        "currency": "PHP",
+        "currencySymbol": "₱"
+    },
+    "categories": [
+        {
+            "id": "hot-coffee",
+            "name": "Hot Coffee",
+            "description": "Freshly brewed espresso-based drinks served hot.",
+            "items": [
+                {
+                    "name": "Americano",
+                    "price": 125,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Rich espresso combined with hot water for a smooth and bold coffee."
+                },
+                {
+                    "name": "Café Latte",
+                    "price": 145,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Espresso blended with creamy steamed milk and a light layer of foam."
+                },
+                {
+                    "name": "Caramel Macchiato",
+                    "price": 165,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Espresso and steamed milk enhanced with sweet caramel flavor."
+                },
+                {
+                    "name": "Spanish Latte",
+                    "price": 165,
+                    "category": "Hot Coffee",
+                    "shortDescription": "A creamy espresso drink sweetened with rich condensed milk."
+                },
+                {
+                    "name": "Hazelnut Mocha Latte",
+                    "price": 165,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Chocolate espresso latte with a smooth and nutty hazelnut finish."
+                },
+                {
+                    "name": "Vanilla Latte",
+                    "price": 165,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Creamy espresso latte infused with fragrant vanilla sweetness."
+                },
+                {
+                    "name": "White Mocha Latte",
+                    "price": 165,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Espresso and steamed milk blended with smooth white chocolate."
+                },
+                {
+                    "name": "Strawberry Mocha",
+                    "price": 170,
+                    "category": "Hot Coffee",
+                    "shortDescription": "A unique combination of espresso, chocolate, and sweet strawberry."
+                },
+                {
+                    "name": "Rock Salt Latte",
+                    "price": 190,
+                    "category": "Hot Coffee",
+                    "shortDescription": "Creamy espresso latte topped with a lightly salted cream layer."
+                },
+                {
+                    "name": "Biscoff Latte",
+                    "price": 260,
+                    "category": "Hot Coffee",
+                    "shortDescription": "A rich espresso latte flavored with caramelized Biscoff cookie notes."
+                }
+            ]
+        },
+        {
+            "id": "iced-coffee",
+            "name": "Iced Coffee",
+            "description": "Refreshing espresso-based drinks served chilled over ice.",
+            "items": [
+                {
+                    "name": "Americano",
+                    "price": 125,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Bold espresso poured over chilled water and ice."
+                },
+                {
+                    "name": "Café Latte",
+                    "price": 145,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Espresso, cold milk, and ice combined for a smooth refreshing drink."
+                },
+                {
+                    "name": "Caramel Macchiato",
+                    "price": 165,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Chilled espresso and milk finished with sweet caramel."
+                },
+                {
+                    "name": "Spanish Latte",
+                    "price": 165,
+                    "category": "Iced Coffee",
+                    "shortDescription": "A sweet and creamy iced espresso drink with condensed milk."
+                },
+                {
+                    "name": "Hazelnut Mocha Latte",
+                    "price": 165,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Iced chocolate latte with espresso and smooth hazelnut flavor."
+                },
+                {
+                    "name": "Vanilla Latte",
+                    "price": 165,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Chilled espresso and milk sweetened with aromatic vanilla."
+                },
+                {
+                    "name": "White Mocha Latte",
+                    "price": 165,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Iced espresso latte blended with creamy white chocolate."
+                },
+                {
+                    "name": "Strawberry Mocha",
+                    "price": 170,
+                    "category": "Iced Coffee",
+                    "shortDescription": "A refreshing blend of espresso, chocolate, strawberry, milk, and ice."
+                },
+                {
+                    "name": "Rock Salt Latte",
+                    "price": 190,
+                    "category": "Iced Coffee",
+                    "shortDescription": "Iced espresso latte topped with creamy and lightly salted foam."
+                },
+                {
+                    "name": "Biscoff Latte",
+                    "price": 260,
+                    "category": "Iced Coffee",
+                    "shortDescription": "A chilled espresso latte with rich caramelized Biscoff flavor."
+                }
+            ]
+        },
+        {
+            "id": "non-coffee",
+            "name": "Non-Coffee",
+            "description": "Comforting chocolate, matcha, and milk-based drinks without coffee.",
+            "items": [
+                {
+                    "name": "Signature Hot Choco",
+                    "price": 145,
+                    "category": "Non-Coffee",
+                    "shortDescription": "A warm and comforting chocolate drink with a rich creamy finish."
+                },
+                {
+                    "name": "Signature Iced Choco",
+                    "price": 145,
+                    "category": "Non-Coffee",
+                    "shortDescription": "Rich signature chocolate blended with milk and served over ice."
+                },
+                {
+                    "name": "White Chocolate",
+                    "price": 145,
+                    "category": "Non-Coffee",
+                    "shortDescription": "A smooth and creamy white chocolate drink available hot or iced."
+                },
+                {
+                    "name": "Matcha Latte",
+                    "price": 150,
+                    "category": "Non-Coffee",
+                    "shortDescription": "Earthy Japanese-style matcha blended with creamy milk, available hot or iced."
+                },
+                {
+                    "name": "Iced Strawberry Milk",
+                    "price": 185,
+                    "category": "Non-Coffee",
+                    "shortDescription": "Cold creamy milk infused with sweet and fruity strawberry flavor."
+                },
+                {
+                    "name": "Iced Matcha Peanut Butter",
+                    "price": 265,
+                    "category": "Non-Coffee",
+                    "shortDescription": "A distinctive iced matcha drink blended with rich peanut butter."
+                }
+            ]
+        },
+        {
+            "id": "frappe-drinks",
+            "name": "Frappe Drinks",
+            "description": "Creamy blended beverages served cold with a smooth frozen texture.",
+            "items": [
+                {
+                    "name": "Java Chip",
+                    "price": 185,
+                    "category": "Frappe Drinks",
+                    "shortDescription": "A creamy blended coffee drink with rich chocolate chips."
+                },
+                {
+                    "name": "Chocolate",
+                    "price": 185,
+                    "category": "Frappe Drinks",
+                    "shortDescription": "A rich and creamy frozen chocolate drink."
+                },
+                {
+                    "name": "Salted Caramel Cream Cheese",
+                    "price": 185,
+                    "category": "Frappe Drinks",
+                    "shortDescription": "A creamy caramel frappe with a lightly salted cream cheese finish."
+                },
+                {
+                    "name": "Strawberry Frappe",
+                    "price": 185,
+                    "category": "Frappe Drinks",
+                    "shortDescription": "A refreshing frozen drink blended with sweet strawberry flavor."
+                },
+                {
+                    "name": "Strawberry Cream Cheese",
+                    "price": 250,
+                    "category": "Frappe Drinks",
+                    "shortDescription": "A creamy strawberry frappe finished with rich cream cheese."
+                }
+            ]
+        },
+        {
+            "id": "pasta",
+            "name": "Pasta",
+            "description": "Hearty pasta dishes prepared with flavorful sauces and fresh ingredients.",
+            "items": [
+                {
+                    "name": "Chicken Pesto",
+                    "price": 520,
+                    "category": "Pasta",
+                    "shortDescription": "Tender chicken tossed with al dente pasta in a rich, creamy pesto sauce, finished with herbs and savory flavors."
+                },
+                {
+                    "name": "Seafood Marinara",
+                    "price": 520,
+                    "category": "Pasta",
+                    "shortDescription": "A flavorful pasta dish tossed in rich marinara sauce with fresh seafood, herbs, and a savory tomato base."
+                },
+                {
+                    "name": "Beef Bolognese",
+                    "price": 520,
+                    "category": "Pasta",
+                    "shortDescription": "A classic pasta dish tossed in rich, savory beef tomato sauce, slow-cooked with herbs and spices."
+                }
+            ]
+        },
+        {
+            "id": "burgers",
+            "name": "Burgers",
+            "description": "Satisfying burger meals served with flavorful sides.",
+            "items": [
+                {
+                    "name": "Juicy Beef Burger",
+                    "price": 480,
+                    "category": "Burgers",
+                    "shortDescription": "A juicy beef burger layered with cheese, lettuce, tomato, and onions, served with onion rings, creamy coleslaw, and flavorful dipping sauce."
+                }
+            ]
+        }
+    ]
+}
